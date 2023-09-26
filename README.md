@@ -5,6 +5,7 @@
 ![image](https://github.com/pelero503/sevenknights/assets/135421915/885abc63-a327-404f-89db-924f2d19c31d)
 # 서버 스펙
  - C++ IOCP 소켓 서버
+ - 프라우드넷 사용
  - MSSQL DBMS
  - PVS-Studio static analyzer
 # 역할
